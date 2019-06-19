@@ -1,4 +1,5 @@
-# kirim-email-slim-framework
+# slim framework mengirim email dengan swiftmailer - slim framework Email Sending with SwiftMailer
+
 BELAJAR Git dan GitHUB,
 
 Rest Api slim framework mengirim email dengan swiftmailer.
