@@ -1,6 +1,6 @@
 # kirim-email-slim-framework
 BELAJAR Git dan GitHUB,
-slim framework mengirim email dengan swiftmailer.
+Rest Api slim framework mengirim email dengan swiftmailer.
 
 ujicoba dengan postman metode POST
 /public/kirimEmail
