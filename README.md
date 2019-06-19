@@ -1,5 +1,5 @@
 # kirim-email-slim-framework
-BELAJAR HitHUB
+BELAJAR Git dan GitHUB,
 slim framework mengirim email dengan swiftmailer
 
 ujicoba dengan postman metode POST
