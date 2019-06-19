@@ -1,8 +1,10 @@
 # kirim-email-slim-framework
 BELAJAR Git dan GitHUB,
+
 Rest Api slim framework mengirim email dengan swiftmailer.
 
 ujicoba dengan postman metode POST
+
 /public/kirimEmail
 
 key:
@@ -13,5 +15,4 @@ isi_email.
 
 --versi-- 
 
-slim framework dan swiftmailer bulan juni 2019.
-
+bulan juni 2019.
